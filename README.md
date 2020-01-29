@@ -7,7 +7,7 @@ Multi Pages Template With HTML / CSS Only (Not Responsive)
 Just Download it and Preview or Check The URL
 
 ```
-
+https://zo3rb.github.io/Arabic-Smite/
 ```
 ### auther
 ```
