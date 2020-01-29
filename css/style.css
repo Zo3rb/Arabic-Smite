@@ -1,0 +1,64 @@
+/* Some Resets As I Learned For Osama El Zero */
+.container {width: 80%; margin: auto;}
+.clearfix {clear: both;}
+/* Some Resets As I Learned For Osama El Zero */
+
+/* font-family: 'El Messiri', sans-serif; */
+
+/* starting The navigation here */
+.navigation {background-color: #313556; color: #b2ab2e; overflow: hidden; font-family: 'El Messiri', sans-serif;}
+.navigation a:hover ,
+.navigation #active {color: white;}
+.navigation .logo {float: left; margin-top: 5px;}
+.navigation ul {list-style: none; float: right; padding: 0; margin: 0; overflow: hidden;}
+.navigation ul li {float: left; font-size: 20px; margin: 22.5px 15px;}
+/* Ending The navigation here */
+
+/*Starting The Content Here */
+.content { 
+  background: url(../images/arenawp.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+.scontainer { 
+  background: url(../images/smitewp.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+.content h1 {color: #baab0d; text-align: center; margin: 0; padding-top: 300px;}
+.content h2 {color: #baab0d; text-align: center;}
+.content button {margin-left: 495px; color: white; background-color: black; border: none; padding: 10px 20px;}
+.content button:hover {color: black; background-color: red; cursor: pointer;}
+.content .ss {overflow: hidden;}
+.content .ss div {width: 25%; float: left;}
+.content .ss img {width: 100%; height: 100%;}
+/*Ending The Content Here */
+
+/* starting the news here */
+.news { background-color: #b2116f; padding: 20px 10px; font-family: 'El Messiri';} 
+.news h2 {margin: 0;}
+.news h2 ,
+.news p {text-align: center; color: white; line-height: 1.5;}
+/* ending the news here */
+
+/* Starting the Features here */
+.fea {background-color: black; font-family: 'El Messiri'; color: white; padding: 20px;}
+.fea .container h2 {text-align: center;}
+/* Ending the Features here */
+
+/* Starting The Socail Here */
+.social {background-color: #777477; color: white; font-family: 'El Messiri';}
+.social .container {overflow: hidden;}
+.social .container div {float: left; width: 50%;}
+.social .container div ul{list-style: none;}
+.social .container div ul li {display: inline-block;}
+.social .container div ul li:hover ,
+.socail .container a ,
+.active:hover {cursor: pointer; color: blue;}
+.social .cotainer h1 {text-align: center; margin:0;}
+.fa {font-size: 32px; margin: 5px 20px;}
+/* Starting The Socail Here */

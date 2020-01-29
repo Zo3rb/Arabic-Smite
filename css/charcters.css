@@ -1,0 +1,31 @@
+/* Some Resets As I Learned For Osama El Zero */
+.container {width: 80%; margin: auto;}
+.clearfix {clear: both;}
+/* Some Resets As I Learned For Osama El Zero */
+
+/* font-family: 'El Messiri', sans-serif; */
+
+/* starting The navigation here */
+.navigation {background-color: #313556; color: #b2ab2e; overflow: hidden; font-family: 'El Messiri', sans-serif;}
+.navigation a:hover ,
+.navigation #active {color: white;}
+.navigation .logo {float: left; margin-top: 5px;}
+.navigation ul {list-style: none; float: right; padding: 0; margin: 0; overflow: hidden;}
+.navigation ul li {float: left; font-size: 20px; margin: 22.5px 15px;}
+/* Ending The navigation here */
+
+
+.ui {background:black; text-align: center; color: white; padding: 217px;font-family: 'El Messiri', sans-serif;}
+
+/* Starting The Socail Here */
+.social {background-color: #777477; color: white; font-family: 'El Messiri';}
+.social .container {overflow: hidden;}
+.social .container div {float: left; width: 50%;}
+.social .container div ul{list-style: none;}
+.social .container div ul li {display: inline-block;}
+.social .container div ul li:hover ,
+.socail .container a ,
+.active:hover {cursor: pointer; color: blue;}
+.social .cotainer h1 {text-align: center; margin:0;}
+.fa {font-size: 32px; margin: 5px 20px;}
+/* Starting The Socail Here */
